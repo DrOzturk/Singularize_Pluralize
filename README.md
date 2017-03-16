@@ -12,14 +12,14 @@ gd.pluralize(("fiets") #returns "fietsen"
 
 # Accuracy Levels on Corpora
 ## Dutch Accuracy (measured on CELEX Dutch morphology word forms):
-79% for pluralize()
-91% for singularize()
+79% for pluralize() <br>
+91% for singularize()<br>
 
 ## Accuracy (measured on CELEX German morphology word forms):
-75% for gender()
-72% for pluralize()
-84% for singularize() (for nominative)
+75% for gender()<br>
+72% for pluralize()<br>
+84% for singularize() (for nominative)<br>
 
 ## French Accuracy:
-92% for pluralize()
-93% for singularize()
+92% for pluralize()<br>
+93% for singularize()<br>
