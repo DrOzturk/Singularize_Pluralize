@@ -6,8 +6,8 @@ It is a Python 3 port of German, Dutch, and French singularization and pluraliza
 ```
 import grammar.dutch as gd
 
-gd.singularize("fietsen") #returns "fiets" <br>
-gd.pluralize(("fiets") #returns "fietsen" <br>
+gd.singularize("fietsen") #returns "fiets"
+gd.pluralize(("fiets") #returns "fietsen"
 ```
 
 # Accuracy Levels on Corpora
